@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form</name>
+   <tag></tag>
+   <elementGuidId>d84ce825-406f-4a32-8e96-5e81b3e4eab0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>935c85a3-f7ca-4623-bf11-5e155531f4e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log InPlease enter your detailsEmailPasswordForgot password?Login</value>
+      <webElementGuid>082620b0-3502-4f0f-bf19-5cc09dfda767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen font-Inter antialiased&quot;]/div[@class=&quot;min-h-screen ik-gradient grid place-content-center&quot;]/div[@class=&quot;card lg:min-w-96 md:min-w-96 sm:min-w-96 xs:min-w-96&quot;]/form[1]</value>
+      <webElementGuid>67bb4b6a-1946-4095-8ef6-4a195591e162</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/form</value>
+      <webElementGuid>23b1e409-4841-4aba-a244-55fed56468b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>e76e6b95-9573-4447-a72b-493965b7cf82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'Log InPlease enter your detailsEmailPasswordForgot password?Login' or . = 'Log InPlease enter your detailsEmailPasswordForgot password?Login')]</value>
+      <webElementGuid>3d4b55b5-33d5-4e7b-beee-7d5d5a6ebe6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

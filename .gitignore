@@ -1,0 +1,20 @@
+# Katalon generated folders
+bin/
+Reports/
+Libs/
+output/
+build/
+.cache/
+
+# Eclipse/IDEA files
+.classpath
+.project
+.settings/
+.svn/
+
+# Gradle cache
+.gradle/
+
+# Ignore all in output except .gitkeep
+output/*
+!output/.gitkeep

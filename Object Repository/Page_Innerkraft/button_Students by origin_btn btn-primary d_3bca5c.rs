@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Students by origin_btn btn-primary d_3bca5c</name>
+   <tag></tag>
+   <elementGuidId>310ced04-923d-469a-8ba7-90a9d2f5bfe4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6e95678e-e752-47bb-b685-7f7504f02a69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary disabled:cursor-not-allowed text-white hover:bg-gray-800 disabled:bg-slate-600 disabled:text-gray-50 btn-sm font-bold w-40</value>
+      <webElementGuid>9fc73bf9-5e44-4ceb-bb49-f7e9fa148698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5eaa794f-9897-4268-9fb1-4155df317e19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add student</value>
+      <webElementGuid>317ad8ae-b547-4912-9998-9188aca72b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen font-Inter antialiased&quot;]/div[@class=&quot;grid grid-rows-[3.0625rem_1fr] min-h-screen h-full print:grid-rows-1&quot;]/div[@class=&quot;min-h-full h-full bg-neutral-100&quot;]/div[@class=&quot;grid grid-cols-[auto_1fr] h-full&quot;]/div[@class=&quot;p-4 bg-neutral-100&quot;]/div[1]/div[@class=&quot;flex justify-between items-center&quot;]/div[@class=&quot;flex space-x-2 items-end&quot;]/button[@class=&quot;btn btn-primary disabled:cursor-not-allowed text-white hover:bg-gray-800 disabled:bg-slate-600 disabled:text-gray-50 btn-sm font-bold w-40&quot;]</value>
+      <webElementGuid>5f212c11-0da6-4a3e-9f6d-ddf9e2baa1e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>7e13a68a-48e0-4e21-999b-d06d52265422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>d8a9eebb-1a0b-47f4-a7d7-635167d40325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Students by origin'])[1]/following::button[1]</value>
+      <webElementGuid>d86a42be-7191-488d-8a98-7eb4d802ebbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Students'])[1]/following::button[1]</value>
+      <webElementGuid>2fbeddff-e1cb-4a98-b403-f9653500836e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S.No'])[1]/preceding::button[1]</value>
+      <webElementGuid>4b39eb96-8d5f-4586-8a2d-fdb0ed3b771b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[1]/preceding::button[1]</value>
+      <webElementGuid>cbd3a8d2-3545-4db1-86d2-61bcb95ea824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add student']/parent::*</value>
+      <webElementGuid>6d6cfc20-918a-468a-860a-5b38a44497d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>b908ca89-cdad-4adf-a215-fe3903811291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add student' or . = 'Add student')]</value>
+      <webElementGuid>705520a0-8f3c-4fd5-ba06-c95b66abfbdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

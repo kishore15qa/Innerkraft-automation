@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Try to login using incorrect email id</description>
+   <name>Using invalid email id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39b9ef0e-2361-4fe7-b5a8-b5d0d3fc3b93</testCaseGuid>
+</TestCaseEntity>

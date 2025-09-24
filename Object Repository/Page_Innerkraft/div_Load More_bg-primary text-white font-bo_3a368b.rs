@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Load More_bg-primary text-white font-bo_3a368b</name>
+   <tag></tag>
+   <elementGuidId>206c6a78-d8ee-40c1-9ab9-84c1666331de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div[3]/details/summary/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-primary.text-white.font-bold.rounded-full.flex.items-center.justify-center.w-8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>530c9258-9985-42e7-8e86-407fbfd3b2d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-primary text-white font-bold rounded-full flex items-center justify-center w-8</value>
+      <webElementGuid>0d877bec-db35-4a8f-95cd-009f5969d123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>K</value>
+      <webElementGuid>9b3d9770-d9d1-489e-b542-34b7afd95c6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen font-Inter antialiased&quot;]/div[@class=&quot;grid grid-rows-[3.0625rem_1fr] min-h-screen h-full print:grid-rows-1&quot;]/div[@class=&quot;print:hidden&quot;]/div[@class=&quot;h-13 py-2 px-4 border-b fixed top-0 left-0 w-full bg-white flex items-center justify-between z-50 print:hidden&quot;]/div[@class=&quot;flex items-center&quot;]/div[3]/details[@class=&quot;dropdown dropdown-end dropdown-bottom&quot;]/summary[@class=&quot;flex border-none outline-none&quot;]/div[@class=&quot;avatar placeholder&quot;]/div[@class=&quot;bg-primary text-white font-bold rounded-full flex items-center justify-center w-8&quot;]</value>
+      <webElementGuid>85c1aae1-e69b-473f-a105-ace8da27bc61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[3]/details/summary/div/div</value>
+      <webElementGuid>3a9b5500-edf8-4680-91e8-c4eb033e2315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load More'])[1]/following::div[4]</value>
+      <webElementGuid>b1f10768-3049-4fc4-bb62-a98877e78186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No new notifications'])[1]/following::div[5]</value>
+      <webElementGuid>76edf7d7-2c66-4496-a8bb-d914dd9f6c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Account'])[1]/preceding::div[1]</value>
+      <webElementGuid>979c798c-18ba-4154-afb7-2c8435b5a6f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//summary/div/div</value>
+      <webElementGuid>1c5a1d83-f924-4d14-b48f-650dbeeda909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'K' or . = 'K')]</value>
+      <webElementGuid>a9d3a068-4c34-426c-b937-c32323c9b5b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

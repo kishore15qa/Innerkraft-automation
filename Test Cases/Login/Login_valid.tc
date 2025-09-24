@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login as Psych Admin user with Valid credenials</description>
+   <name>Login_valid</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>632d4434-1f91-44de-a7a4-832af25e8dfe</testCaseGuid>
+</TestCaseEntity>

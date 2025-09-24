@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__btn btn-primary disabledcursor-not-_073f81</name>
+   <tag></tag>
+   <elementGuidId>67b8f1f0-facf-4127-8ad5-ac505a43de38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a513ad8a-1e6d-4e54-9a14-a3ca52fa1047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary disabled:cursor-not-allowed text-white hover:bg-gray-800 disabled:bg-slate-600 disabled:text-gray-50 btn-sm</value>
+      <webElementGuid>84064841-da82-4d06-8818-f3e440ac875f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8f1fbb2a-4846-44d0-9cbd-fbe8c3ffd8df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select College</value>
+      <webElementGuid>394c4216-0571-4e82-bd17-d4d144daeab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen font-Inter antialiased&quot;]/div[@class=&quot;grid grid-rows-[3.0625rem_1fr] min-h-screen h-full print:grid-rows-1&quot;]/div[@class=&quot;min-h-full h-full bg-neutral-100&quot;]/div[@class=&quot;grid grid-cols-[auto_1fr] h-full&quot;]/div[@class=&quot;p-4 bg-neutral-100&quot;]/div[1]/dialog[@class=&quot;modal modal-bottom sm:modal-middle&quot;]/div[@class=&quot;modal-box min-w-[80vw]&quot;]/div[@class=&quot;modal-bottom&quot;]/div[@class=&quot;flex justify-end gap-4 mt-7&quot;]/button[@class=&quot;btn btn-primary disabled:cursor-not-allowed text-white hover:bg-gray-800 disabled:bg-slate-600 disabled:text-gray-50 btn-sm&quot;]</value>
+      <webElementGuid>27ed3912-488f-48ae-9780-70ddbb3af863</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>f856dd49-70ea-4e35-88b6-56bc5eaa707c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/dialog[2]/div/div[3]/div/button</value>
+      <webElementGuid>89f5025c-fd91-4b13-bfa2-17ec86c61bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[2]/following::button[1]</value>
+      <webElementGuid>b10c25fe-16db-4561-a301-fb0c47e5a2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[2]/following::button[1]</value>
+      <webElementGuid>ca22af34-3140-47a8-82c4-d68faf4661a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>65bc6357-ab66-43b4-98bd-1e432851ebbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Select College' or . = 'Select College')]</value>
+      <webElementGuid>db4194a5-a019-4aac-b0d9-240ef5f14c97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

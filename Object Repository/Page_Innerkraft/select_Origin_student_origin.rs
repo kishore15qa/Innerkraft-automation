@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Origin_student_origin</name>
+   <tag></tag>
+   <elementGuidId>148e75bb-7157-48e4-9a10-a400a04d2aaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='student_origin']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;student_origin&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1416bbf8-302b-4c73-bfc3-bcbe4d4b447c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select select-secondary w-full select-sm rounded border-secondary select-bordered disabled:bg-gray-300 disabled:text-gray-600 disabled:border-none</value>
+      <webElementGuid>33e9ee03-cfc7-4852-8fd9-089c98acf8d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>student_origin</value>
+      <webElementGuid>33e9aff4-b2da-46fb-9a67-9dfd98a38adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select from the listB2B studentsB2C students</value>
+      <webElementGuid>a68c8874-08b6-4cbe-a13f-9b663a702db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r4:-form-item&quot;)/label[@class=&quot;form-control w-full&quot;]/select[@class=&quot;select select-secondary w-full select-sm rounded border-secondary select-bordered disabled:bg-gray-300 disabled:text-gray-600 disabled:border-none&quot;]</value>
+      <webElementGuid>a7807e45-d0be-4de0-be49-d0737c30e653</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='student_origin']</value>
+      <webElementGuid>aa3dec7b-b9b1-4dfb-a524-3cb9679cc8cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':r4:-form-item']/label/select</value>
+      <webElementGuid>a9ae9f18-8d62-40e1-909c-91f21639c3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Origin*'])[1]/following::select[1]</value>
+      <webElementGuid>7bb88466-4e02-4e9a-8e3d-f505107c4ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last name*'])[1]/following::select[1]</value>
+      <webElementGuid>0481850f-f1d8-4524-8293-1f5ef42b8ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roll number'])[1]/preceding::select[1]</value>
+      <webElementGuid>aa3e3c9a-df8f-48b7-b1c6-b65c4b077d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='College'])[1]/preceding::select[1]</value>
+      <webElementGuid>4575a2c5-0c28-44bf-9b38-9cd00ce7b9eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label/select</value>
+      <webElementGuid>37a5cfa1-1785-4c7e-be5b-023617cfbed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'student_origin' and (text() = 'Select from the listB2B studentsB2C students' or . = 'Select from the listB2B studentsB2C students')]</value>
+      <webElementGuid>aba59486-8a6b-4dae-8c5b-8ac306d176ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
